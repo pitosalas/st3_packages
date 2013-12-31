@@ -1,0 +1,14 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Bash Build System",
+		"DashDoc",
+		"Markdown Preview",
+		"Package Control",
+		"RSpec",
+		"Ruby on Rails snippets",
+		"RubyEval",
+		"Seeing Is Believing"
+	]
+}

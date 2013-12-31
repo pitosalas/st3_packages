@@ -1,0 +1,5 @@
+[
+	{ "keys": ["super+alt+g"], "command": "goto_definition" },
+	{ "keys": ["super+shift+left"], "command": "prev_view" },
+	{ "keys": ["super+shift+right"], "command": "next_view" }
+]
